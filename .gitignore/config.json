@@ -1,0 +1,5 @@
+{
+    "token": "process.env.TOKEN",
+    "prefix": "/",
+    "youtube_api_key": "653465948559-g2etel1e77h8it3h72gf0fpq1d1v8r17.apps.googleusercontent.com"
+}
